@@ -1,0 +1,9 @@
+
+def sin(a, c):
+    a = a / c
+    print(a)
+
+
+def cos(b, c):
+    b = b / c
+    print(b)
